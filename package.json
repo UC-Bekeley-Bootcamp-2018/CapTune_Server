@@ -1,0 +1,22 @@
+{
+  "name": "captune_server",
+  "version": "1.0.0",
+  "description": "Backend side of CapTune",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UC-Bekeley-Bootcamp-2018/CapTune_Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UC-Bekeley-Bootcamp-2018/CapTune_Server/issues"
+  },
+  "homepage": "https://github.com/UC-Bekeley-Bootcamp-2018/CapTune_Server#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
